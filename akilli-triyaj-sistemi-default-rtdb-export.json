@@ -1,0 +1,23 @@
+{
+  "Hasta_0": {
+    "Ambient_Temp": 21.92999,
+    "BPM": 23.46867,
+    "ID": 0,
+    "Object_Temp": 21.83001,
+    "SpO2": 70
+  },
+  "Hasta_3": {
+    "Ambient_Temp": 21.24999,
+    "BPM": 20.83333,
+    "ID": 3,
+    "Object_Temp": 20.73001,
+    "SpO2": 0
+  },
+  "Hasta_5": {
+    "Ambient_Temp": 23.35,
+    "BPM": 23.06869,
+    "ID": 3,
+    "Object_Temp": 23.58999,
+    "SpO2": 140
+  }
+}
